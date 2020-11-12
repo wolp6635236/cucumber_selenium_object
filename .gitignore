@@ -1,0 +1,19 @@
+# Java class files
+*.class
+#idea
+.idea/
+#iml
+Tester.iml
+*.iml
+#output
+test-output
+#maven target
+target/
+#allure
+allure-results/
+
+#Eclipse files
+*.settings
+*.classpath
+*.project
+*.pydevproject

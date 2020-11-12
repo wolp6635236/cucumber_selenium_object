@@ -1,0 +1,7 @@
+baidu:
+  value: "http://www.baidu.com"
+工行地址:
+  value: "http://gonghang.test.cdecube.com/signin"
+用户名输入框:
+  type: xpath
+  value: '//input[@type="text"]'
