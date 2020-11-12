@@ -1,11 +1,5 @@
 # 自动化测试规范文档
 本文描述自动化只用框架以及规范
-## 新建项目
-在开发一个新项目时，从gitlab上将项目模板拉下来
-* 项目地址
-```
-git@git.cdecube.com:test/cucumber_selenium_object.git
-```
 * 项目结构
 ```
 ├─main
